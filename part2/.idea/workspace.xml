@@ -52,11 +52,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Reminder.kt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Reminder.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Reminder.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
               <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IncrementDecrement.kt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/IncrementDecrement.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -84,6 +94,7 @@
         <option value="$PROJECT_DIR$/src/Multiplication.kt" />
         <option value="$PROJECT_DIR$/src/Division.kt" />
         <option value="$PROJECT_DIR$/src/Reminder.kt" />
+        <option value="$PROJECT_DIR$/src/IncrementDecrement.kt" />
       </list>
     </option>
   </component>
@@ -93,7 +104,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1040" />
@@ -188,10 +199,10 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.ReminderKt">
-    <configuration name="AdditionsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Kotlin.IncrementDecrementKt">
+    <configuration name="DivisionKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="AdditionsKt" />
+      <option name="MAIN_CLASS_NAME" value="DivisionKt" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -201,9 +212,9 @@
       <module name="part2" />
       <envs />
     </configuration>
-    <configuration name="DivisionKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="IncrementDecrementKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="DivisionKt" />
+      <option name="MAIN_CLASS_NAME" value="IncrementDecrementKt" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -330,19 +341,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Kotlin.AdditionsKt" />
-      <item index="1" class="java.lang.String" itemvalue="Kotlin.SubstractKt" />
-      <item index="2" class="java.lang.String" itemvalue="Kotlin.MultiplicationKt" />
-      <item index="3" class="java.lang.String" itemvalue="Kotlin.DivisionKt" />
-      <item index="4" class="java.lang.String" itemvalue="Kotlin.ReminderKt" />
+      <item index="0" class="java.lang.String" itemvalue="Kotlin.SubstractKt" />
+      <item index="1" class="java.lang.String" itemvalue="Kotlin.MultiplicationKt" />
+      <item index="2" class="java.lang.String" itemvalue="Kotlin.DivisionKt" />
+      <item index="3" class="java.lang.String" itemvalue="Kotlin.ReminderKt" />
+      <item index="4" class="java.lang.String" itemvalue="Kotlin.IncrementDecrementKt" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Kotlin.ReminderKt" />
-        <item index="1" class="java.lang.String" itemvalue="Kotlin.DivisionKt" />
-        <item index="2" class="java.lang.String" itemvalue="Kotlin.MultiplicationKt" />
-        <item index="3" class="java.lang.String" itemvalue="Kotlin.SubstractKt" />
-        <item index="4" class="java.lang.String" itemvalue="Kotlin.AdditionsKt" />
+        <item index="0" class="java.lang.String" itemvalue="Kotlin.IncrementDecrementKt" />
+        <item index="1" class="java.lang.String" itemvalue="Kotlin.ReminderKt" />
+        <item index="2" class="java.lang.String" itemvalue="Kotlin.DivisionKt" />
+        <item index="3" class="java.lang.String" itemvalue="Kotlin.MultiplicationKt" />
+        <item index="4" class="java.lang.String" itemvalue="Kotlin.SubstractKt" />
       </list>
     </recent_temporary>
   </component>
@@ -356,20 +367,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1508502865583</updated>
-      <workItem from="1508502867250" duration="2964000" />
+      <workItem from="1508502867250" duration="3410000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2964000" />
+    <option name="totallyTimeSpent" value="3410000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1040" height="784" extended-state="6" />
+    <frame x="-8" y="-8" width="1040" height="784" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32872504" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -445,6 +456,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IncrementDecrement.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
           <folding />
         </state>
       </provider>
