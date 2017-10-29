@@ -8,6 +8,5 @@ fun main(args: Array<String>) {
 
 
     println("Hai, $firstNum + $lastNum = $result")
-    println("Hello, ${11 + lastNum}")
-//    println("Hai2 " + firstNum + " + " + lastNum + " = "+ result)
+    println("Hai2 " + firstNum + " + " + lastNum + " = "+ result)
 }
