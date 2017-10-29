@@ -7,6 +7,7 @@ fun main(args: Array<String>){
     //explicit
 
     var city:String = "Semarang"
+    var province:String = "jawa tengah"
 
     //variable null
 
@@ -16,5 +17,6 @@ fun main(args: Array<String>){
     println(names)
     println(name)
     println(city)
+    println(province)
     println(country)
 }
