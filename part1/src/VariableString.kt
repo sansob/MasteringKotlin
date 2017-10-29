@@ -6,7 +6,7 @@ fun main(args: Array<String>){
     var names = null
     //explicit
 
-    var city:String = "Semarang"
+    var city:String = "Pati"
     var province:String = "jawa tengah"
     var kul:String = "UDINUS"
 
